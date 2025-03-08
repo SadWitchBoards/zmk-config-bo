@@ -112,7 +112,7 @@
                 &kp Q     &lt NUM W   &kp E       &kp R &kp T &kp Y &kp U &kp I     &kp O   &kp P
                 &kp A     &kp S       &kp D       &kp F &kp G &kp H &kp J &kp K     &kp L   &kp RET
                 &lt SYM Z &hrm LGUI X &hrm LALT C &kp V &kp B &kp N &kp M &kp COMMA &kp DOT &kp SLASH
-                        TB    SFTENT   SFTENT      SFTSPC  SFTBSP  CRTL
+                        TB    SFTLGUI   SFTENT      SFTSPC  SFTBSP  CRTL
                 &kp END    &kp DOWN     TB        BSP           &kp ESC
                 &kp RIGHT  &kp LEFT     RTRN      &kp HOME      &kp UP
             >;
