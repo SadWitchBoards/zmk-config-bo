@@ -122,7 +122,7 @@
             bindings = <
                 &kp N1 &kp N2 &kp N3 &kp N4 &kp N5 &kp N6 &kp N7 &kp N8 &kp N9 &kp N0
                 &kp EXCL &kp AT &kp HASH &kp DLLR &kp PRCNT &kp CARET &kp AMPS &KP ASTRK &kp LPAR &kp RPAR
-                &kp ESC &kp LALT &kp PLUS &kp MINUS &kp DASH &kp UNDER &kp TILDE &kp PIPE &kp COLON &kp SEMI
+                &kp ESC &kp LALT &kp KP_PLUS &kp KP_EQUAL &kp DASH &kp UNDER &kp TILDE &kp PIPE &kp COLON &kp SEMI
                         &kp LCTRL    &to SYM   &LT NUM RET      &kp SPC  &kp BSP  &kp TAB
                 &kp PSCRN    &kp PG_UP     &kp PG_DN      &kp DEL     &kp ESC
                 &kp RIGHT  &kp LEFT     &kp RET      &kp DOWN    &kp UP
