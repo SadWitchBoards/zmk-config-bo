@@ -139,7 +139,7 @@
                 &kp F1 &kp F2 &kp F3 &kp F4 &kp F5 &kp F6 &kp F7 &kp F8 &kp F9 &kp F10
                         &kp LCTRL    &mo NUM   &lt SYM RET     &kp SPC  &kp BSP  &kp TAB
                 &kp PSCRN    &kp PG_UP     &kp PG_DN       &kp DEL        &kp ESC
-                &kp RIGHT  &kp LEFT     kp& RET      &kp DOWN      &kp UP
+                &kp RIGHT  &kp LEFT     &kp RET      &kp DOWN      &kp UP
             >;
         };
     };
